@@ -63,16 +63,10 @@ const getNetworkIdFromName = async (networkIdName) => {
     return null
 }
 
-NFTSettings = {
-    name: "NFT",
-    symbol: "NFT"
-}
-
 module.exports = {
     networkConfig,
     getNetworkIdFromName,
     developmentChains,
     localChainID,
-    serverWalletAddress,
-    NFTSettings
+    serverWalletAddress
 }
