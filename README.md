@@ -1,0 +1,2 @@
+# Scorpion Capital Management
+DeFi 3.0 & Staking-as-a-Service Scorpion Capital Management (SCM) is an investment fund operating on the Binance Smart Chain. Our aim is to make cryptocurrency investing available to everyone. To achieve this, we offer multiple investment services to $SCM holders in order to bridge the gap between DeFi 3.0 and cryptocurrency investing. 
